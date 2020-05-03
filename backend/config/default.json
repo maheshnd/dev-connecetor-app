@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mahesh:Smart1345@cluster0-tofl8.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "OMNamah:Shivay"
+  "jwtSecret": "OMNamah:Shivay",
+  "githubClientId": "bb7cc7414a4b1f9669550",
+  "githubClientSecret": "557273624fecce1af877e640a37768ff1d1d5782"
 }
